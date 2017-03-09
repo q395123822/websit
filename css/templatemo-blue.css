@@ -139,7 +139,7 @@ header {
   overflow: hidden;
   position: relative;
   padding-top: 20px;
-  padding-bottom: 140px;
+  padding-bottom: 20px;
 }
 header img {
   display: inline-block !important;
